@@ -27,6 +27,8 @@ const meerkats=[
 
  - Arrange the list of meerkets by age lowest to highest.
 
+ - Add up the total age of all the meerkats
+
 ## Running the app
 
 ```bash
