@@ -1,4 +1,6 @@
 const expect = require('chai').expect;
+require('../app/app');
+
 const request = require('request');
 
 describe('<example_describe>', function() {
