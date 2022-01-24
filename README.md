@@ -21,11 +21,17 @@ const meerkats=[
     {name: "Oleg", age: 5}
 ];
 ```
- - Add a new Meerkat to the following list of meerkat users.
+ - Add a new Meerkat to the above list of meerkat users.
+    - Make sure there are no spaces in a new meerkats name
+    - Make sure their age is above 1 and below 100
+    - Validate if the meerkat name already exists, and if it does then don't add them.
  
  - Remove from the list any meerkat who is under the age of 10.
 
- - Arrange the list of meerkets by age lowest to highest.
+ - Add up the total age of all the meerkats in the list
+ 
+ - Arrange the list of meerkets by age, lowest to highest.
+
 
 ## Running the app
 
