@@ -3,10 +3,9 @@
 Part 1. Write a new endpoint that checks a string for a palindrome and returns the following:
 
 | Status Code | Value | Description                   |
-| ----------- | ----- | ----------------------------- |
+| ----------- | ----- | :---------------------------- |
 | 200         | true  | If string is a palindrome     |
-| 200         | false | If string is not a palindrome |
-| 400         |       | If value sent is not a string |
+| 400         | false | If string is not a palindrome |
 
   [Here](https://examples.yourdictionary.com/palindrome-examples.html) is a list of palindromes to assist.
 
