@@ -8,7 +8,7 @@
     "test": "mocha 'test/**/*.js' --recursive --timeout 30000 --exit",
     "test-watch": "nodemon ./app/app.js --exec \"npm test\""
   },
-  "author": "Mhuk",
+  "author": "Matthew Huk",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
