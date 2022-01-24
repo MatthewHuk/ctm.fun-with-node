@@ -5,8 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node ./app/app.js",
-    "test": "mocha 'test/**/*.js' --recursive --timeout 30000 --exit",
-    "test-watch": "nodemon ./app/app.js --exec \"npm test\""
+    "test": "mocha 'test/**/*.js' --recursive --timeout 30000 --exit"
   },
   "author": "Matthew Huk",
   "license": "ISC",
