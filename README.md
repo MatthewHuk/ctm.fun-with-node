@@ -21,7 +21,7 @@ const meerkats=[
     {name: "Oleg", age: 5}
 ];
 ```
- - Add a new Meerkat to the following list of meerkat users.
+ - Add a new Meerkat to the above list of meerkat users.
  
  - Remove from the list any meerkat who is under the age of 10.
 
