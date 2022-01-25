@@ -38,10 +38,17 @@ Print the name of any Meerkat whose name is a Palindrome.
 ### Step 5
 Arrange the list of Meerkets by age, lowest to highest.
 
+### Step 6
+
+Find the Factorial of a Meerkats age.
+* For example, Oleg is 5.  The factorial of 5 is 120.
+* It is calculated by multiplying 5 with 4 and its result with 3 and its result with 2, and its result with 1
+
+
 ## Tips
 
 * The solution doesn't need to be optimised. Please aim for a working solution first.
-* You can 'google' if you need to refresh your memory on the syntax of any JavaScript function you may use.
+* You can 'google' if you need to research or refresh your memory on any JavaScript function you may use.
 
 ## Running the included javascript file
 
