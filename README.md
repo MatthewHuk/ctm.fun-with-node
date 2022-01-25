@@ -69,6 +69,8 @@ Example output:
 
 ### Step 5
 List the name of any Meerkat whose name is a Palindrome.  
+[Here](https://examples.yourdictionary.com/palindrome-examples.html) is a list of palindromes to assist.  
+
 Example output:  
 ```
 hannah
