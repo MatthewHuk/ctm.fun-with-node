@@ -1,6 +1,6 @@
 const meerkats=[
     {name: "Aleksandr", age: 30},
-    {name: "Sergei", age:77},
+    {name: "Auto Sergei", age:77},
     {name: "Maiya", age: 25},
     {name: "Meer Kat", age: 25},
     {name: "Oleg", age: 5},
@@ -13,7 +13,7 @@ console.log(meerkats)
 
 //Step 2 - Remove from the list any Meerkat who is under the age of 10.
 
-//Step 3 - Replace the names of all Meerkats to be all lower case letters and no spaces between their names.
+//Step 3 - Replace the names of all Meerkats to be all lower case letters
 
 //Step 4 - Add up the total age of all the meerkats in the list.
 
@@ -21,7 +21,6 @@ console.log(meerkats)
 
 //Step 6 - Arrange the list of Meerkets by age, lowest to highest.
 
-//Step 7 - Find the Factorial of a Meerkats age.
+//Step 7 - Remove the white space from all Meerkats names
 
-
-
+//Step 8 - Find the Factorial of a Baby Olegs age.
