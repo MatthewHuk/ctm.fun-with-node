@@ -29,16 +29,16 @@ Remove from the list any Meerkat who is under the age of 10.
 ### Step 3
 Replace the names of all Meerkats to be all lower case letters and no spaces between their names.
 
-### Step 3
+### Step 4
 Add up the total age of all the meerkats in the list.
 
-### Step 4
+### Step 5
 Print the name of any Meerkat whose name is a Palindrome.
 
-### Step 5
+### Step 6
 Arrange the list of Meerkets by age, lowest to highest.
 
-### Step 6
+### Step 7
 
 Find the Factorial of a Meerkats age.
 * For example, Oleg is 5.  The factorial of 5 is 120.
