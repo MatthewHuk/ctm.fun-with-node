@@ -1,49 +1,50 @@
-# Overview
+## Welcome to NodeJs
 
-Part 1. Write a new endpoint that checks a string for a palindrome and returns the following:
+![alt text](./ctm-blue-logo.jpeg)
 
-| Status Code | Value | Description                   |
-| ----------- | ----- | :---------------------------- |
-| 200         | true  | If string is a palindrome     |
-| 400         | false | If string is not a palindrome |
 
-  [Here](https://examples.yourdictionary.com/palindrome-examples.html) is a list of palindromes to assist.
+### Overview
 
----
-
-Part 2. Consider the following list of meerkat users:
+For this exercise, please use the following dataset of meerkat users.
 
 ```javascript
 const meerkats=[
     {name: "Aleksandr", age: 30},
     {name: "Sergei", age:77},
     {name: "Maiya", age: 25},
-    {name: "Oleg", age: 5}
+    {name: "Meer Kat", age: 25},
+    {name: "Oleg", age: 5},
+    {name: "Hannah", age: 20}
 ];
 ```
- - Add a new Meerkat to the above list of meerkat users.
-    - Make sure there are no spaces in a new meerkats name
-    - Make sure their age is above 1 and below 100
-    - Validate if the meerkat name already exists, and if it does then don't add them.
- 
- - Remove from the list any meerkat who is under the age of 10.
 
- - Add up the total age of all the meerkats in the list
- 
- - Arrange the list of meerkets by age, lowest to highest.
+This exercise is split into multiple steps. Each step will require you to add or extract some information from the Meerkats dataset and print it on the console.
 
+### Step 1
+Create a variable with a new Meerkat, and add it to the above array of Meerkats.
 
-## Running the app
+### Step 2
+Remove from the list any Meerkat who is under the age of 10.
 
-```bash
-npm install
-npm start
+### Step 3
+Replace the names of all Meerkats to be all lower case letters and no spaces between their names.
+
+### Step 3
+Add up the total age of all the meerkats in the list.
+
+### Step 4
+Print the name of any Meerkat whose name is a Palindrome.
+
+### Step 5
+Arrange the list of Meerkets by age, lowest to highest.
+
+## Tips
+
+* The solution doesn't need to be optimised. Please aim for a working solution first.
+* You can 'google' if you need to refresh your memory on the syntax of any JavaScript function you may use.
+
+## Running the included javascript file
+
 ```
-
-## Running the tests
-
-In the terminal of the app, run:
-
-```bash
-npm test
+node meerkat.js 
 ```
