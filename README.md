@@ -113,7 +113,7 @@ Example output:
 ```
 
 ### Step 9
-Group the meerkats by their age.  
+Group the Meerkats by their age.  
 Example output 
 ```
 {
