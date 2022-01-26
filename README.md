@@ -112,6 +112,18 @@ Example output:
 120
 ```
 
+### Step 9
+Group the meerkats by their age.  
+Example output 
+```
+{
+  '20': [ { name: 'hannah', age: 20 } ],
+  '25': [ { name: 'maiya', age: 25 }, { name: 'meer kat', age: 25 } ],
+  '30': [ { name: 'aleksandr', age: 30 } ],
+  '77': [ { name: 'auto sergei', age: 77 } ]
+}
+```
+
 ## Tips
 
 * The solution doesn't need to be optimised. Please aim for a working solution first.
